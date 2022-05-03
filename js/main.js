@@ -140,7 +140,7 @@ const bindingGlasses = ()=>{
 }
 
 bindingGlasses();
-var avatarHtml = "";
+let avatarHtml = "";
 window.removeGlasses = (is_remove)=>{
     // const avatarHtml =  document.getElementById("avatar").innerHTML;
     console.log(avatarHtml);
